@@ -1,0 +1,24 @@
+Utwórz klasę opisującą atomy. Każda cząstka powinna przechowywać nazwę, masę, ładunek. 
+Przesłoń metodę toString, tak aby wypisywała informacje o atomach. 
+
+Utwórz klasę Osoba z prywatnym polem String imie i dziedziczącą po niej klasę Spawacz z 
+polam stazpracy. Utwórz w obu klasach metodę String wyswietl(), która wykorzystując słowo 
+kluczowe super zwróci ciąg znaków zawierający wszystkie informacje zawarte w obiekcie tej 
+klasy.
+
+Utwórz klasę Owoc z prywatnymi polemi String nazwa oraz double masa i dziedziczącymi po 
+niej klasami Jablko, Pomarancza i Gruszka. Konstruktory wszystkich klas pochodnych będą 
+ustalały nazwę owocu (zgodną z nazwą klasy) i losowały masę owocu z przedziału 100 − 250 
+gr. Utwórz klasę Drzewo z metodą Owoc zerwijOwoc(), która wylosuje jaki owoc został 
+zerwany. Napisz program umieszczający w 100 elementowej tablicy zrywane owoce tak długo 
+aż nie zbierze się 5 kg owoców, a następnie policzy ile jest jabłek, pomarańczy i gruszek. 
+
+Utwórz klasę Osoba wraz z prywatnymi polami String imie i int rokUrodzenia. Oraz 
+dziedziczącą po klasie Osoba, klasę Gornik z prywatnymi polami: • int 
+rokPoczatku - opisujący kiedy dana osoba rozpoczęła pracę; Wszystkie pola klas będą 
+inicjowane przez konstruktory. Następnie przygotuj w obu klasach metodę wyliczDeputat, 
+która w przypadku osoby bez specjalizacji będzie wypisywać "brak deputatu”, a w przypadku 
+górnika wyliczy wysokość jego deputatu węglowego przyjmując że za każdy przepracowany rok 
+należy mu się 10 kg węgla. Przyjmij że górnik na emeryturę przechodzi się w wieku 55 lat 
+jeżeli przepracował przynajmniej 25 lat. Napisz program porównujący jaki deputat dostanie 
+górnik pracujący 5, 10, 15 lat oraz emeryt.

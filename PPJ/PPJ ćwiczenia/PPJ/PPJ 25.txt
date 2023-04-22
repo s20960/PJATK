@@ -1,0 +1,39 @@
+I. [1 pkt.] Utwórz klasę Account polami:
+• double balance - określającym stan konta;
+• double dailyDebet - określającym ile można wypłacić dziennie posługując się
+kartą debetową;
+• double credit - określającym jaki kredyt można zaciągnąć;
+• DebetCard - opisującym powiązaną kartę debetową;
+• CreditCard - opisującym powiązaną kartę kredytową;
+Utwórz klasy debetCard i CreditCard powiązane z kontem i wykonujące na nim
+operacje wypłaty.
+Jeżeli wypłaty z karty debetowej osiągną dzienny limit lub wypłaty z karty kredytowej
+osiągną limit kredytu, należy podnieść wyjątek NotEnoughFunds, który w swojej
+treści będzie zawierał informację o ile przekroczono debet lub kredyt.
+Przedstaw program, który doprowadzi do podniesienia wyjątku na obu kartach.
+
+II. [1 pkt.] Utwórz klasy File z polami String name, int pages i String text, okre-
+ślającymi odpowiednio nazwę sprawy, ilość stron i opis sprawy. Dodaj do niej metodę
+void show() wyświetlającą komunikat ”czy masz dostęp?".
+Następnie utwórz dziedziczące po klasie File, klasę SecretFile i klasę TopSecretFile.
+Obie klasy będą przesłaniały metodę show, ale pierwsza z nich wyświetli co 5 słowo
+a druga co 2 z zawartego w niej opisu sprawy, a wszystkie pozostałe znaki tekstowe
+będą wyświetlone jako *.
+Na koniec przygotuj statyczną metodę która utworzy jeden z trzech obiektów (File,
+SecretFile lub TopSecretFile a następnie zwróci obiekt File. Zadbaj aby in-
+formacje w polach zostały wypełnione, przyjmując że dane do opisu sprawy będą
+akapitami z wikipedii.
+Wygeneruj 10 spraw i wywołaj ich metodę show() weryfikując jej działanie.
+
+III. [1 pkt.] Przygotuj klasę Person z polem String name oraz klasę Archives, która
+przechowa w tablicy 10 spraw z poprzedniego zadania. Następnie dodaj do klasy
+Archives metody:
+• int getFilesCount() - zwracającą ilość spraw w archiwum;
+• File getFile(int, Person) - dostarczającą sprawę danej osobie.
+Utwórz program który będzie udostępniał osobom sprawy z archiwum, jednak gdy
+sprawę klasyfikowaną jako TopSecret będzie chciała pobrać osoba Fox Mulder pod-
+niesiony zostanie wyjątek XFilesException zawierający komunikat System Failure - only matrix
+can help.
+
+IV. [1 pkt.] Dany jest plik serverLog.txt wczytaj jego zawartość, a następnie zapisz ją
+od końca do pliku goLrevres.txt.

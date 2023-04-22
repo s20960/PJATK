@@ -1,0 +1,6 @@
+java.util.Scanner in = new java.util.Scanner(System.in);
+int "nazwa_zmiennej" = in.nextInt();
+
+import java.util.Scanner;
+Scanner scan = new Scanner(System.in);
+String "nazwa_zmiennej" = scan.nextLine();
