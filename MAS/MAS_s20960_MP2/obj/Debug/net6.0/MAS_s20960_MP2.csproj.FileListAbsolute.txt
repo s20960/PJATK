@@ -1,0 +1,15 @@
+C:\Users\mich_\OneDrive\Pulpit\michalino\PJATK\semestr_6\MAS\MAS_s20960_MP2\bin\Debug\net6.0\MAS_s20960_MP2.exe
+C:\Users\mich_\OneDrive\Pulpit\michalino\PJATK\semestr_6\MAS\MAS_s20960_MP2\bin\Debug\net6.0\MAS_s20960_MP2.deps.json
+C:\Users\mich_\OneDrive\Pulpit\michalino\PJATK\semestr_6\MAS\MAS_s20960_MP2\bin\Debug\net6.0\MAS_s20960_MP2.runtimeconfig.json
+C:\Users\mich_\OneDrive\Pulpit\michalino\PJATK\semestr_6\MAS\MAS_s20960_MP2\bin\Debug\net6.0\MAS_s20960_MP2.dll
+C:\Users\mich_\OneDrive\Pulpit\michalino\PJATK\semestr_6\MAS\MAS_s20960_MP2\bin\Debug\net6.0\MAS_s20960_MP2.pdb
+C:\Users\mich_\OneDrive\Pulpit\michalino\PJATK\semestr_6\MAS\MAS_s20960_MP2\obj\Debug\net6.0\MAS_s20960_MP2.csproj.AssemblyReference.cache
+C:\Users\mich_\OneDrive\Pulpit\michalino\PJATK\semestr_6\MAS\MAS_s20960_MP2\obj\Debug\net6.0\MAS_s20960_MP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mich_\OneDrive\Pulpit\michalino\PJATK\semestr_6\MAS\MAS_s20960_MP2\obj\Debug\net6.0\MAS_s20960_MP2.AssemblyInfoInputs.cache
+C:\Users\mich_\OneDrive\Pulpit\michalino\PJATK\semestr_6\MAS\MAS_s20960_MP2\obj\Debug\net6.0\MAS_s20960_MP2.AssemblyInfo.cs
+C:\Users\mich_\OneDrive\Pulpit\michalino\PJATK\semestr_6\MAS\MAS_s20960_MP2\obj\Debug\net6.0\MAS_s20960_MP2.csproj.CoreCompileInputs.cache
+C:\Users\mich_\OneDrive\Pulpit\michalino\PJATK\semestr_6\MAS\MAS_s20960_MP2\obj\Debug\net6.0\MAS_s20960_MP2.dll
+C:\Users\mich_\OneDrive\Pulpit\michalino\PJATK\semestr_6\MAS\MAS_s20960_MP2\obj\Debug\net6.0\refint\MAS_s20960_MP2.dll
+C:\Users\mich_\OneDrive\Pulpit\michalino\PJATK\semestr_6\MAS\MAS_s20960_MP2\obj\Debug\net6.0\MAS_s20960_MP2.pdb
+C:\Users\mich_\OneDrive\Pulpit\michalino\PJATK\semestr_6\MAS\MAS_s20960_MP2\obj\Debug\net6.0\MAS_s20960_MP2.genruntimeconfig.cache
+C:\Users\mich_\OneDrive\Pulpit\michalino\PJATK\semestr_6\MAS\MAS_s20960_MP2\obj\Debug\net6.0\ref\MAS_s20960_MP2.dll

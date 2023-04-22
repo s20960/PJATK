@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<GridPane alignment="CENTER" hgap="10" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" style="-fx-background-color: black;" vgap="10" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.controllers.ControllerTable">
+   <columnConstraints>
+      <ColumnConstraints />
+      <ColumnConstraints halignment="CENTER" />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints maxHeight="0.0" minHeight="0.0" prefHeight="0.0" />
+      <RowConstraints maxHeight="61.0" minHeight="61.0" prefHeight="61.0" />
+      <RowConstraints maxHeight="61.0" minHeight="61.0" prefHeight="61.0" />
+      <RowConstraints maxHeight="61.0" minHeight="61.0" prefHeight="61.0" />
+   </rowConstraints>
+   <children>
+      <TableView fx:id="tableView" style="-fx-background-color: red;">
+        <columns>
+          <TableColumn fx:id="nameCol" prefWidth="75.0" style="-fx-background-color: green;" text="Name" />
+          <TableColumn fx:id="passwordCol" prefWidth="75.0" style="-fx-background-color: yellow;" text="Password" />
+            <TableColumn fx:id="categoryCol" prefWidth="58.0" style="-fx-background-color: #9999ff;" text="Category" />
+            <TableColumn fx:id="URLCol" prefWidth="98.0" style="-fx-background-color: #803380;" text="Website URL" />
+        </columns>
+         <columnResizePolicy>
+            <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+         </columnResizePolicy>
+      </TableView>
+      <BorderPane prefHeight="61.0" prefWidth="321.0" GridPane.rowIndex="3">
+         <right>
+            <Button fx:id="searchButton" mnemonicParsing="false" onAction="#searchCategory" prefHeight="25.0" prefWidth="77.0" text="Search" BorderPane.alignment="CENTER" />
+         </right>
+         <center>
+            <TextField fx:id="filterField" prefHeight="25.0" prefWidth="139.0" BorderPane.alignment="CENTER">
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+               <BorderPane.margin>
+                  <Insets left="15.0" right="15.0" />
+               </BorderPane.margin></TextField>
+         </center>
+         <left>
+            <Label style="-fx-background-color: white;" text="Category filter" BorderPane.alignment="CENTER">
+               <font>
+                  <Font name="Impact" size="18.0" />
+               </font></Label>
+         </left>
+      </BorderPane>
+      <HBox prefHeight="392.0" prefWidth="176.0" GridPane.columnIndex="1">
+         <children>
+            <GridPane prefHeight="397.0" prefWidth="175.0">
+              <columnConstraints>
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="82.0" minWidth="10.0" prefWidth="69.0" />
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="112.0" minWidth="10.0" prefWidth="106.0" />
+              </columnConstraints>
+              <rowConstraints>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+              </rowConstraints>
+               <children>
+                  <Button fx:id="addButton" mnemonicParsing="false" onAction="#addPassword" text="Add password" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+                  <TextField fx:id="URLAddField" GridPane.columnIndex="1" GridPane.rowIndex="3">
+                     <GridPane.margin>
+                        <Insets right="5.0" />
+                     </GridPane.margin>
+                  </TextField>
+                  <TextField fx:id="categoryAddField" GridPane.columnIndex="1" GridPane.rowIndex="2">
+                     <GridPane.margin>
+                        <Insets right="5.0" />
+                     </GridPane.margin>
+                  </TextField>
+                  <TextField fx:id="passAddField" GridPane.columnIndex="1" GridPane.rowIndex="1">
+                     <GridPane.margin>
+                        <Insets right="5.0" />
+                     </GridPane.margin>
+                  </TextField>
+                  <Label text="URL" textFill="WHITE" GridPane.rowIndex="3" />
+                  <Label text="Category" textFill="WHITE" GridPane.rowIndex="2" />
+                  <Label text="Name" textFill="WHITE" />
+                  <TextField fx:id="nameAddField" GridPane.columnIndex="1">
+                     <GridPane.margin>
+                        <Insets right="5.0" />
+                     </GridPane.margin></TextField>
+                  <Label text="Password" textFill="WHITE" GridPane.rowIndex="1" />
+               </children>
+            </GridPane>
+         </children>
+      </HBox>
+      <BorderPane prefHeight="200.0" prefWidth="200.0" GridPane.rowIndex="4">
+         <left>
+            <Label text="Delete password by name" textFill="#09ff00" BorderPane.alignment="CENTER">
+               <font>
+                  <Font name="MS Gothic" size="12.0" />
+               </font></Label>
+         </left>
+         <center>
+            <TextField fx:id="deleteField" prefHeight="25.0" prefWidth="142.0" BorderPane.alignment="CENTER">
+               <BorderPane.margin>
+                  <Insets left="15.0" right="15.0" />
+               </BorderPane.margin>
+            </TextField>
+         </center>
+         <right>
+            <Button fx:id="deleteButton" mnemonicParsing="false" onAction="#deleteByName" text="Delete" BorderPane.alignment="CENTER" />
+         </right>
+      </BorderPane>
+      <BorderPane prefHeight="200.0" prefWidth="200.0" GridPane.rowIndex="5">
+         <right>
+            <Button mnemonicParsing="false" onAction="#deleteByCategory" text="Delete" BorderPane.alignment="CENTER" />
+         </right>
+         <center>
+            <TextField fx:id="deleteCategory" BorderPane.alignment="CENTER">
+               <BorderPane.margin>
+                  <Insets left="15.0" right="15.0" />
+               </BorderPane.margin>
+            </TextField>
+         </center>
+         <left>
+            <Label text="Delete by category" textFill="RED" BorderPane.alignment="CENTER" />
+         </left>
+      </BorderPane>
+      <Label prefHeight="19.0" prefWidth="86.0" text="Timestamp: " textFill="#f8f8f8" GridPane.columnIndex="1" GridPane.halignment="LEFT" GridPane.rowIndex="4" GridPane.valignment="CENTER" />
+      <Label fx:id="timeStampLabel" alignment="CENTER" textAlignment="CENTER" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+   </children>
+</GridPane>

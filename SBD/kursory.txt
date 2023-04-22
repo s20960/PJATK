@@ -1,0 +1,73 @@
+use [2019SBD];
+
+--1
+drop proc FindEmps;
+
+create proc FindEmps
+	@minSal money
+as
+begin
+	select empno, ename, job, sal
+	from emp
+	where sal>@minSal;
+
+end;
+
+execute FindEmps 1000;
+exec FindEmps 1000;
+exec FindEmps @minSal=1000;
+
+
+--2
+create proc GetDeptId
+	@deptName varchar(50),
+	@deptno int output
+as
+begin
+	select @deptno=Deptno
+	from Dept
+	Where Dname=@deptname
+end;
+
+Declare @deptId int;
+exec GetDeptId @deptName = 'ACCOUNTING', @deptno=@deptId out;
+select @deptId;
+
+
+--3
+set nocount on;
+declare abc cursor for
+	select empno, sal
+	from emp;
+	declare @empno int, @sal money;
+
+open abc;
+
+print 'wartosc @@fetch_status przed 1 pobraniem wynosi ' + cast(@@fetch_status as varchar)
+fetch next from abc into @empno, @sal;
+print 'wartosc @@fetch_status po 1 pobraniem wynosi ' + cast(@@fetch_status as varchar)
+while @@fetch_status=0
+	begin
+		if @sal>1500
+			begin
+				update emp
+				set sal=sal*0.9
+				where empno=@empno
+				print 'Wypłata dla pracownika ' + cast(@empno as varchar)+
+				' zostala obniżona do ' +cast(@sal*0.9 as varchar);
+			end
+		if @sal<1000
+			begin
+				update emp
+				set sal=sal*1.1
+				where empno=@empno
+				print 'Wypłata dla pracownika ' + cast(@empno as varchar)+
+				' zostala obniżona do ' +cast(@sal*1.1 as varchar);
+			end
+		fetch next from abc into @empno, @sal;
+	end;
+	print 'wartosc @@fetch_status po petli wynosi' +cast(@@fetch_status as varchar);
+	close abc;
+	deallocate abc;
+
+

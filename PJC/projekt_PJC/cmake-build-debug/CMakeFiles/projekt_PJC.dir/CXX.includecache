@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mich_/OneDrive/Pulpit/projekt_PJC/Namespace.cpp
+iostream
+-
+fstream
+-
+Namespace.h
+C:/Users/mich_/OneDrive/Pulpit/projekt_PJC/Namespace.h
+
+C:/Users/mich_/OneDrive/Pulpit/projekt_PJC/Namespace.h
+iostream
+-
+Password.h
+C:/Users/mich_/OneDrive/Pulpit/projekt_PJC/Password.h
+Node.h
+C:/Users/mich_/OneDrive/Pulpit/projekt_PJC/Node.h
+
+C:/Users/mich_/OneDrive/Pulpit/projekt_PJC/Node.h
+iostream
+-
+Password.h
+C:/Users/mich_/OneDrive/Pulpit/projekt_PJC/Password.h
+
+C:/Users/mich_/OneDrive/Pulpit/projekt_PJC/Password.h
+iostream
+-
+

@@ -1,0 +1,72 @@
+select * from gracz;
+select * from druzyna;
+select * from region;
+select * from sponsor;
+select * from mecz;
+
+create or replace procedure proc_cur_1
+    (vmin gracz.fame_player%type, vmax gracz.fame_player%type, vdiff gracz.fame_player%type)
+is
+    cursor cur_zad1 is select ID_gracza, nickname, fame_player
+                                from gracz;
+    vid int; vnickname gracz.nickname%type; vfame int;
+begin
+    open cur_zad1;
+    loop
+        fetch cur_zad1 into vid, vnickname, vfame;
+        exit when cur_zad1%notfound;
+        if vfame<vmin then
+            update gracz
+            set fame_player=fame_player+vdiff
+            where id_gracza=vid;
+            dbms_output.put_line('gracz będzie mieć wyższy fame');
+        elsif vfame>vmax then
+            update gracz
+            set fame_player=fame_player-vdiff
+            where id_gracza=vid;
+            dbms_output.put_line('gracz ma za duży fame i go obniżamy');
+        else
+            dbms_output.put_line('gracz ma fame między '||vmin||' a '||vmax||' czyli jest w normie');
+        end if;
+    end loop;
+    close cur_zad1;
+end;
+
+select * from gracz;
+execute proc_cur_1(20,80,15);
+
+--========================================================================================================
+
+create or replace trigger trig_zad_2
+before insert or update
+on gracz
+for each row
+declare
+vfame gracz.fame_player%type;
+vnick gracz.nickname%type;
+begin
+    vfame:= :new.fame_player;
+    vnick:= :old.nickname;
+    if vfame<0 then
+        if updating then
+            dbms_output.put_line('Wartość fame nie może być mniejsza od zera, gracz '||vnick||'ma z dalej'||:old.fame_player||' sławy');
+        elsif inserting then
+            raise_application_error(-20100, 'Za niski fame!');
+        end if;
+    elsif vfame>010 then
+        if updating then
+            dbms_output.put_line('Wartość fame nie może być więkasz od stu, gracz '||vnick||'ma z dalej'||:old.fame_player||' sławy');
+        elsif inserting then
+            raise_application_error(-20100, 'Za wysoki fame!');
+        end if;
+    end if;
+end;
+
+select * from gracz;
+
+INSERT INTO  Gracz (ID_Gracza, nickname, pozycja, fame_player, dywizja, Druzyna_ID_druzyny) 
+VALUES (20, 'testowy', 'jungle', 150, 'diamond', 1);
+
+
+
+

@@ -1,0 +1,4 @@
+"Zwyk³a" - pomiêdzy Faculty 1 - * Group wraz z automatycznym tworzeniem po³¹czenia zwrotnego
+Z atrybutem - pomiêdzy Student * - * Group gdzie klasa StudentGroup stanowi tablice asocjacyjn¹
+Kwalifikowana - pomiêdzy Subject * - 1 Faculty, gdzie Subject ma dodatkowe pole Id jako identyfikator
+Kompozycja - pomiêdzy Classrom * - 1 Uni
