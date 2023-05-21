@@ -1,0 +1,2 @@
+﻿Metoda polimorficzna - Klasy Pomieszczenie, Sala; getMetraż i ileMetrów 
+Overlapping - Kalsa Osoba; Student, Pracownik,
