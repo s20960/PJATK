@@ -1,0 +1,123 @@
+﻿@page "/fetchdata"
+@inject Context context
+
+<PageTitle>Szpital plus plus</PageTitle>
+
+@using MAS_Implementacja.Data
+@using System.ComponentModel.DataAnnotations;
+
+<h1>Szpital plus plus</h1>
+
+@if (Badanie == null)
+{
+	<h2>Wybierz sobie badanie :)</h2>
+	<table class="table">
+		<thead>
+			<tr>
+				<th>nazwa badania</th>
+				<th></th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var item in context.Badanie)
+			{
+				<tr>
+					<td>@item.Nazwa</td>
+					<td><button class="btn btn-primary" @onclick="@(() => Badanie = item)">wybierz</button></td>
+				</tr>
+			}
+		</tbody>
+	</table>
+}
+else if (!TerminWybrany)
+{
+	<EditForm Model="@Model" OnSubmit="@Submit">
+		<InputDate @bind-Value="Model!.Date" />
+		<button class="btn btn-primary" type="submit">Submit</button>
+	</EditForm>
+}
+else if (Lekarz == null)
+{
+	<h2>@Badanie.Nazwa</h2>
+	<h2>Wybierz sobie lekarza :)</h2>
+	<table class="table">
+		<thead>
+			<tr>
+				<th>imie</th>
+				<th>nazwisko</th>
+				<th></th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var item in context.Personel.Where(x => x.TypPersoneluId == 1 && x.PersonelBadanie.Where(y => y.Badanie == Badanie).Any()))
+			{
+				<tr>
+					<td>@item.Imie</td>
+					<td>@item.Nazwisko</td>
+					<td><button class="btn btn-primary" @onclick="@(() => Lekarz = item)">wybierz</button></td>
+				</tr>
+			}
+		</tbody>
+	</table>
+}
+else
+{
+	<h2>Podsumowanie :)</h2>
+	<ul>
+		<li>Badanie: @Badanie.Nazwa</li>
+		<li>Lekarz: @Lekarz.Imie @Lekarz.Nazwisko</li>
+		<li>Data: @Model.Date</li>
+		<button class="btn btn-primary" @onclick="Akceptuj">Akceptuj</button>
+	</ul>
+}
+
+@if (Badanie != null) {
+	<button class="btn btn-danger" @onclick="NieAkceptuj">Anuluj</button>
+}
+
+@code {
+
+	public Badanie? Badanie { get; set; }
+	public Personel? Lekarz { get; set; }
+
+	public bool TerminWybrany { get; set; }
+
+	private void Akceptuj()
+	{
+		Wizyta wizyta = new Wizyta
+			{
+				Data = Model.Date.Value,
+				Personel = Lekarz,
+				PacjentId = 1,
+				Badanie = Badanie,
+				Status = StatusWizyty.zaplanowana
+			};
+
+		context.Wizyta.Add(wizyta);
+		context.SaveChanges();
+
+		NieAkceptuj();
+	}
+
+	private void NieAkceptuj()
+	{
+		Badanie = null;
+		Lekarz = null;
+		Model = new();
+		TerminWybrany = false;
+	}
+
+	public DateModel? Model { get; set; }
+
+	protected override void OnInitialized() => Model ??= new();
+
+	private void Submit()
+	{
+		TerminWybrany = true;
+	}
+
+	public class DateModel
+	{
+		[Required, ] public DateTime? Date { get; set; }
+	}
+}

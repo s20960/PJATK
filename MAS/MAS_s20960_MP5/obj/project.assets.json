@@ -3229,11 +3229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_6\\MAS\\MAS_s20960_MP5\\MAS_s20960_MP5.csproj",
+      "projectUniqueName": "C:\\Users\\mich_\\OneDrive\\Pulpit\\Nowy folder\\MAS\\MAS_s20960_MP5\\MAS_s20960_MP5.csproj",
       "projectName": "MAS_s20960_MP5",
-      "projectPath": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_6\\MAS\\MAS_s20960_MP5\\MAS_s20960_MP5.csproj",
+      "projectPath": "C:\\Users\\mich_\\OneDrive\\Pulpit\\Nowy folder\\MAS\\MAS_s20960_MP5\\MAS_s20960_MP5.csproj",
       "packagesPath": "C:\\Users\\mich_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_6\\MAS\\MAS_s20960_MP5\\obj\\",
+      "outputPath": "C:\\Users\\mich_\\OneDrive\\Pulpit\\Nowy folder\\MAS\\MAS_s20960_MP5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mich_\\AppData\\Roaming\\NuGet\\NuGet.Config",

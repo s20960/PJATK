@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IeeXWUeJIzsNXC1Spzgd4P8NLyqhmFtZpLEJExRs5pZfd7r4PnLciqW5eVb1xGPjOVaQmUnyXy0OGkLFHV9Omw==",
+  "dgSpecHash": "uq4kya6RwKRedsH58QkL555yEaBww4/ocrx78iD3vjqaekfViqca8iMVcws0FfMhDqmY3tL2xJ52eMUJZ05Jiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_6\\MAS\\MAS_s20960_MP5\\MAS_s20960_MP5.csproj",
+  "projectFilePath": "C:\\Users\\mich_\\OneDrive\\Pulpit\\Nowy folder\\MAS\\MAS_s20960_MP5\\MAS_s20960_MP5.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mich_\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\mich_\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
