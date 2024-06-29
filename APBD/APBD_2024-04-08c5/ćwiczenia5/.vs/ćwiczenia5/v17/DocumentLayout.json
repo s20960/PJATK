@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-04-08c\\\u0107wiczenia5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9460F772-2FFC-44FF-9515-2EFAC21A45CC}|\u0107wiczenia5.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-04-08c\\\u0107wiczenia5\\controllers\\animalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9460F772-2FFC-44FF-9515-2EFAC21A45CC}|\u0107wiczenia5.csproj|solutionrelative:controllers\\animalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9460F772-2FFC-44FF-9515-2EFAC21A45CC}|\u0107wiczenia5.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-04-08c\\\u0107wiczenia5\\models\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9460F772-2FFC-44FF-9515-2EFAC21A45CC}|\u0107wiczenia5.csproj|solutionrelative:models\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9460F772-2FFC-44FF-9515-2EFAC21A45CC}|\u0107wiczenia5.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-04-08c\\\u0107wiczenia5\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9460F772-2FFC-44FF-9515-2EFAC21A45CC}|\u0107wiczenia5.csproj|solutionrelative:models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9460F772-2FFC-44FF-9515-2EFAC21A45CC}|\u0107wiczenia5.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-04-08c\\\u0107wiczenia5\\dto\\animaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9460F772-2FFC-44FF-9515-2EFAC21A45CC}|\u0107wiczenia5.csproj|solutionrelative:dto\\animaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9460F772-2FFC-44FF-9515-2EFAC21A45CC}|\u0107wiczenia5.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-04-08c\\\u0107wiczenia5\\controllers\\visitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9460F772-2FFC-44FF-9515-2EFAC21A45CC}|\u0107wiczenia5.csproj|solutionrelative:controllers\\visitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9460F772-2FFC-44FF-9515-2EFAC21A45CC}|\u0107wiczenia5.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-04-08c\\\u0107wiczenia5\\helpers\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9460F772-2FFC-44FF-9515-2EFAC21A45CC}|\u0107wiczenia5.csproj|solutionrelative:helpers\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9460F772-2FFC-44FF-9515-2EFAC21A45CC}|\u0107wiczenia5.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-04-08c\\\u0107wiczenia5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9460F772-2FFC-44FF-9515-2EFAC21A45CC}|\u0107wiczenia5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Visit.cs",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-04-08c\\\u0107wiczenia5\\Models\\Visit.cs",
+              "RelativeDocumentMoniker": "Models\\Visit.cs",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-04-08c\\\u0107wiczenia5\\Models\\Visit.cs",
+              "RelativeToolTip": "Models\\Visit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T22:08:47.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-04-08c\\\u0107wiczenia5\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-04-08c\\\u0107wiczenia5\\Models\\Animal.cs",
+              "RelativeToolTip": "Models\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T22:08:46.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-04-08c\\\u0107wiczenia5\\Helpers\\Enum.cs",
+              "RelativeDocumentMoniker": "Helpers\\Enum.cs",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-04-08c\\\u0107wiczenia5\\Helpers\\Enum.cs",
+              "RelativeToolTip": "Helpers\\Enum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T22:08:43.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnimalDto.cs",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-04-08c\\\u0107wiczenia5\\Dto\\AnimalDto.cs",
+              "RelativeDocumentMoniker": "Dto\\AnimalDto.cs",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-04-08c\\\u0107wiczenia5\\Dto\\AnimalDto.cs",
+              "RelativeToolTip": "Dto\\AnimalDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T22:08:39.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VisitService.cs",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-04-08c\\\u0107wiczenia5\\Controllers\\VisitService.cs",
+              "RelativeDocumentMoniker": "Controllers\\VisitService.cs",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-04-08c\\\u0107wiczenia5\\Controllers\\VisitService.cs",
+              "RelativeToolTip": "Controllers\\VisitService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T19:25:19.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimalService.cs",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-04-08c\\\u0107wiczenia5\\Controllers\\AnimalService.cs",
+              "RelativeDocumentMoniker": "Controllers\\AnimalService.cs",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-04-08c\\\u0107wiczenia5\\Controllers\\AnimalService.cs",
+              "RelativeToolTip": "Controllers\\AnimalService.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T18:53:16.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-04-08c\\\u0107wiczenia5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-04-08c\\\u0107wiczenia5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T18:28:50.357Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

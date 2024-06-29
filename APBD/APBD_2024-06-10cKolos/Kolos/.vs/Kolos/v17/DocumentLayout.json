@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-06-10cKolos\\Kolos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BA345B-D934-4282-AB79-E9FC410F33E9}|Kolos.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-06-10ckolos\\kolos\\context\\koloscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BA345B-D934-4282-AB79-E9FC410F33E9}|Kolos.csproj|solutionrelative:context\\koloscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BA345B-D934-4282-AB79-E9FC410F33E9}|Kolos.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-06-10ckolos\\kolos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BA345B-D934-4282-AB79-E9FC410F33E9}|Kolos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BA345B-D934-4282-AB79-E9FC410F33E9}|Kolos.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-06-10ckolos\\kolos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9BA345B-D934-4282-AB79-E9FC410F33E9}|Kolos.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BA345B-D934-4282-AB79-E9FC410F33E9}|Kolos.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-06-10ckolos\\kolos\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BA345B-D934-4282-AB79-E9FC410F33E9}|Kolos.csproj|solutionrelative:services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BA345B-D934-4282-AB79-E9FC410F33E9}|Kolos.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-06-10ckolos\\kolos\\services\\iservices\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BA345B-D934-4282-AB79-E9FC410F33E9}|Kolos.csproj|solutionrelative:services\\iservices\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BA345B-D934-4282-AB79-E9FC410F33E9}|Kolos.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-06-10ckolos\\kolos\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BA345B-D934-4282-AB79-E9FC410F33E9}|Kolos.csproj|solutionrelative:controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BA345B-D934-4282-AB79-E9FC410F33E9}|Kolos.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-06-10ckolos\\kolos\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BA345B-D934-4282-AB79-E9FC410F33E9}|Kolos.csproj|solutionrelative:models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BA345B-D934-4282-AB79-E9FC410F33E9}|Kolos.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-06-10ckolos\\kolos\\migrations\\koloscontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BA345B-D934-4282-AB79-E9FC410F33E9}|Kolos.csproj|solutionrelative:migrations\\koloscontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BA345B-D934-4282-AB79-E9FC410F33E9}|Kolos.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-06-10ckolos\\kolos\\migrations\\20240610112712_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BA345B-D934-4282-AB79-E9FC410F33E9}|Kolos.csproj|solutionrelative:migrations\\20240610112712_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BA345B-D934-4282-AB79-E9FC410F33E9}|Kolos.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-06-10ckolos\\kolos\\models\\eventorganiser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BA345B-D934-4282-AB79-E9FC410F33E9}|Kolos.csproj|solutionrelative:models\\eventorganiser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BA345B-D934-4282-AB79-E9FC410F33E9}|Kolos.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-06-10ckolos\\kolos\\models\\organiser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BA345B-D934-4282-AB79-E9FC410F33E9}|Kolos.csproj|solutionrelative:models\\organiser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-06-10cKolos\\Kolos\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-06-10cKolos\\Kolos\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Controllers\\EventController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:41:11.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240610112712_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-06-10cKolos\\Kolos\\Migrations\\20240610112712_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240610112712_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-06-10cKolos\\Kolos\\Migrations\\20240610112712_InitialMigration.cs",
+              "RelativeToolTip": "Migrations\\20240610112712_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:27:30.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-06-10cKolos\\Kolos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-06-10cKolos\\Kolos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:13:10.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-06-10cKolos\\Kolos\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-06-10cKolos\\Kolos\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T11:10:38.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KolosContext.cs",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-06-10cKolos\\Kolos\\Context\\KolosContext.cs",
+              "RelativeDocumentMoniker": "Context\\KolosContext.cs",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-06-10cKolos\\Kolos\\Context\\KolosContext.cs",
+              "RelativeToolTip": "Context\\KolosContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:08:58.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-06-10cKolos\\Kolos\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "Services\\EventService.cs",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-06-10cKolos\\Kolos\\Services\\EventService.cs",
+              "RelativeToolTip": "Services\\EventService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:30:41.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-06-10cKolos\\Kolos\\Services\\Iservices\\IEventService.cs",
+              "RelativeDocumentMoniker": "Services\\Iservices\\IEventService.cs",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-06-10cKolos\\Kolos\\Services\\Iservices\\IEventService.cs",
+              "RelativeToolTip": "Services\\Iservices\\IEventService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:41:42.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KolosContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-06-10cKolos\\Kolos\\Migrations\\KolosContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\KolosContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-06-10cKolos\\Kolos\\Migrations\\KolosContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\KolosContextModelSnapshot.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:27:53.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-06-10cKolos\\Kolos\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Models\\Event.cs",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-06-10cKolos\\Kolos\\Models\\Event.cs",
+              "RelativeToolTip": "Models\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:07:01.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventOrganiser.cs",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-06-10cKolos\\Kolos\\Models\\EventOrganiser.cs",
+              "RelativeDocumentMoniker": "Models\\EventOrganiser.cs",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-06-10cKolos\\Kolos\\Models\\EventOrganiser.cs",
+              "RelativeToolTip": "Models\\EventOrganiser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:08:08.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Organiser.cs",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-06-10cKolos\\Kolos\\Models\\Organiser.cs",
+              "RelativeDocumentMoniker": "Models\\Organiser.cs",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-06-10cKolos\\Kolos\\Models\\Organiser.cs",
+              "RelativeToolTip": "Models\\Organiser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:07:50.185Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

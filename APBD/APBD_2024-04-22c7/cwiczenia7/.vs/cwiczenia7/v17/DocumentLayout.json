@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-04-22c7\\cwiczenia7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C60FF3-7405-43AB-9CCD-3EA7186FB0CD}|cwiczenia7.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-04-22c7\\cwiczenia7\\controllers\\productwarehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C60FF3-7405-43AB-9CCD-3EA7186FB0CD}|cwiczenia7.csproj|solutionrelative:controllers\\productwarehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C60FF3-7405-43AB-9CCD-3EA7186FB0CD}|cwiczenia7.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-04-22c7\\cwiczenia7\\services\\productwarehouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C60FF3-7405-43AB-9CCD-3EA7186FB0CD}|cwiczenia7.csproj|solutionrelative:services\\productwarehouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C60FF3-7405-43AB-9CCD-3EA7186FB0CD}|cwiczenia7.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-04-22c7\\cwiczenia7\\services\\iproductwarehouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C60FF3-7405-43AB-9CCD-3EA7186FB0CD}|cwiczenia7.csproj|solutionrelative:services\\iproductwarehouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C60FF3-7405-43AB-9CCD-3EA7186FB0CD}|cwiczenia7.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-04-22c7\\cwiczenia7\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5C60FF3-7405-43AB-9CCD-3EA7186FB0CD}|cwiczenia7.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C60FF3-7405-43AB-9CCD-3EA7186FB0CD}|cwiczenia7.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-04-22c7\\cwiczenia7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C60FF3-7405-43AB-9CCD-3EA7186FB0CD}|cwiczenia7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C60FF3-7405-43AB-9CCD-3EA7186FB0CD}|cwiczenia7.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-04-22c7\\cwiczenia7\\repositories\\productwarehouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C60FF3-7405-43AB-9CCD-3EA7186FB0CD}|cwiczenia7.csproj|solutionrelative:repositories\\productwarehouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C60FF3-7405-43AB-9CCD-3EA7186FB0CD}|cwiczenia7.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-04-22c7\\cwiczenia7\\repositories\\iproductwarehouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C60FF3-7405-43AB-9CCD-3EA7186FB0CD}|cwiczenia7.csproj|solutionrelative:repositories\\iproductwarehouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C60FF3-7405-43AB-9CCD-3EA7186FB0CD}|cwiczenia7.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-04-22c7\\cwiczenia7\\models\\productwarehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C60FF3-7405-43AB-9CCD-3EA7186FB0CD}|cwiczenia7.csproj|solutionrelative:models\\productwarehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductWarehouseService.cs",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-04-22c7\\cwiczenia7\\Services\\IProductWarehouseService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductWarehouseService.cs",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-04-22c7\\cwiczenia7\\Services\\IProductWarehouseService.cs",
+              "RelativeToolTip": "Services\\IProductWarehouseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:16:52.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductWarehouseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-04-22c7\\cwiczenia7\\Repositories\\ProductWarehouseRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductWarehouseRepository.cs",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-04-22c7\\cwiczenia7\\Repositories\\ProductWarehouseRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductWarehouseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:19:15.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-04-22c7\\cwiczenia7\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-04-22c7\\cwiczenia7\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:28:36.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-04-22c7\\cwiczenia7\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-04-22c7\\cwiczenia7\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-07T16:30:46.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductWarehouseService.cs",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-04-22c7\\cwiczenia7\\Services\\ProductWarehouseService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductWarehouseService.cs",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-04-22c7\\cwiczenia7\\Services\\ProductWarehouseService.cs",
+              "RelativeToolTip": "Services\\ProductWarehouseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:17:07.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductWarehouseController.cs",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-04-22c7\\cwiczenia7\\Controllers\\ProductWarehouseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductWarehouseController.cs",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-04-22c7\\cwiczenia7\\Controllers\\ProductWarehouseController.cs",
+              "RelativeToolTip": "Controllers\\ProductWarehouseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:17:28.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductWarehouseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-04-22c7\\cwiczenia7\\Repositories\\IProductWarehouseRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProductWarehouseRepository.cs",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-04-22c7\\cwiczenia7\\Repositories\\IProductWarehouseRepository.cs",
+              "RelativeToolTip": "Repositories\\IProductWarehouseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:18:53.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductWarehouse.cs",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-04-22c7\\cwiczenia7\\Models\\ProductWarehouse.cs",
+              "RelativeDocumentMoniker": "Models\\ProductWarehouse.cs",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-04-22c7\\cwiczenia7\\Models\\ProductWarehouse.cs",
+              "RelativeToolTip": "Models\\ProductWarehouse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:14:56.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-03-25c4\\zadanie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72364726-3116-4019-A054-6E9AF98BB046}|LegacyApp\\LegacyApp.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-03-25c4\\zadanie\\legacyapp\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72364726-3116-4019-A054-6E9AF98BB046}|LegacyApp\\LegacyApp.csproj|solutionrelative:legacyapp\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72364726-3116-4019-A054-6E9AF98BB046}|LegacyApp\\LegacyApp.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-03-25c4\\zadanie\\legacyapp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72364726-3116-4019-A054-6E9AF98BB046}|LegacyApp\\LegacyApp.csproj|solutionrelative:legacyapp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72364726-3116-4019-A054-6E9AF98BB046}|LegacyApp\\LegacyApp.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-03-25c4\\zadanie\\legacyapp\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72364726-3116-4019-A054-6E9AF98BB046}|LegacyApp\\LegacyApp.csproj|solutionrelative:legacyapp\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72364726-3116-4019-A054-6E9AF98BB046}|LegacyApp\\LegacyApp.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-03-25c4\\zadanie\\legacyapp\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72364726-3116-4019-A054-6E9AF98BB046}|LegacyApp\\LegacyApp.csproj|solutionrelative:legacyapp\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72364726-3116-4019-A054-6E9AF98BB046}|LegacyApp\\LegacyApp.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-03-25c4\\zadanie\\legacyapp\\usercreditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72364726-3116-4019-A054-6E9AF98BB046}|LegacyApp\\LegacyApp.csproj|solutionrelative:legacyapp\\usercreditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72364726-3116-4019-A054-6E9AF98BB046}|LegacyApp\\LegacyApp.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-03-25c4\\zadanie\\legacyapp\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72364726-3116-4019-A054-6E9AF98BB046}|LegacyApp\\LegacyApp.csproj|solutionrelative:legacyapp\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72364726-3116-4019-A054-6E9AF98BB046}|LegacyApp\\LegacyApp.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-03-25c4\\zadanie\\legacyapp\\userdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72364726-3116-4019-A054-6E9AF98BB046}|LegacyApp\\LegacyApp.csproj|solutionrelative:legacyapp\\userdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8924C743-B84E-4B77-8944-0E718815E1D0}|LegacyAppConsumer\\LegacyAppConsumer.csproj|c:\\users\\mich_\\onedrive\\pulpit\\michalino\\pjatk\\semestr_8\\apbd\\cwiczenia\\apbd_2024-03-25c4\\zadanie\\legacyappconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8924C743-B84E-4B77-8944-0E718815E1D0}|LegacyAppConsumer\\LegacyAppConsumer.csproj|solutionrelative:legacyappconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-03-25c4\\zadanie\\LegacyApp\\User.cs",
+              "RelativeDocumentMoniker": "LegacyApp\\User.cs",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-03-25c4\\zadanie\\LegacyApp\\User.cs",
+              "RelativeToolTip": "LegacyApp\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T18:52:39.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Validation.cs",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-03-25c4\\zadanie\\LegacyApp\\Validation.cs",
+              "RelativeDocumentMoniker": "LegacyApp\\Validation.cs",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-03-25c4\\zadanie\\LegacyApp\\Validation.cs",
+              "RelativeToolTip": "LegacyApp\\Validation.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T18:23:19.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-03-25c4\\zadanie\\LegacyAppConsumer\\Program.cs",
+              "RelativeDocumentMoniker": "LegacyAppConsumer\\Program.cs",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-03-25c4\\zadanie\\LegacyAppConsumer\\Program.cs",
+              "RelativeToolTip": "LegacyAppConsumer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:18:36.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-03-25c4\\zadanie\\LegacyApp\\Client.cs",
+              "RelativeDocumentMoniker": "LegacyApp\\Client.cs",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-03-25c4\\zadanie\\LegacyApp\\Client.cs",
+              "RelativeToolTip": "LegacyApp\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:12:04.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-03-25c4\\zadanie\\LegacyApp\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "LegacyApp\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-03-25c4\\zadanie\\LegacyApp\\ClientRepository.cs",
+              "RelativeToolTip": "LegacyApp\\ClientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:06:23.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-03-25c4\\zadanie\\LegacyApp\\UserService.cs",
+              "RelativeDocumentMoniker": "LegacyApp\\UserService.cs",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-03-25c4\\zadanie\\LegacyApp\\UserService.cs",
+              "RelativeToolTip": "LegacyApp\\UserService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:58:49.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserCreditService.cs",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-03-25c4\\zadanie\\LegacyApp\\UserCreditService.cs",
+              "RelativeDocumentMoniker": "LegacyApp\\UserCreditService.cs",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-03-25c4\\zadanie\\LegacyApp\\UserCreditService.cs",
+              "RelativeToolTip": "LegacyApp\\UserCreditService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:56:43.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-03-25c4\\zadanie\\LegacyApp\\UserDataAccess.cs",
+              "RelativeDocumentMoniker": "LegacyApp\\UserDataAccess.cs",
+              "ToolTip": "C:\\Users\\mich_\\OneDrive\\Pulpit\\michalino\\PJATK\\semestr_8\\APBD\\cwiczenia\\APBD_2024-03-25c4\\zadanie\\LegacyApp\\UserDataAccess.cs",
+              "RelativeToolTip": "LegacyApp\\UserDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:35:58.32Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
