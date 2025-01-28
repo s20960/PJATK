@@ -1,0 +1,17 @@
+body{
+	background-color: #447744
+}
+
+.form_enter{
+	border: 5px solid black;
+	width: 250px;
+	padding: 10px;
+	margin: 30px;
+}
+
+.ans_div{
+	border: 5px solid black;
+	width: 250px;
+	padding: 10px;
+	margin: 30px;
+}

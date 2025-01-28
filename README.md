@@ -8,5 +8,6 @@ SBD - Systemy baz danych(PL_SQL, T-SQL)
 RBD - Relacyjne bazy danych(SQL)
 MAS - Modelowanie i analiza systemów informacyjnych(C#)
 APBD - Aplikacja baz danych (C#)
+TIN - Technologie Internetu (JS, node.js, React)
 Tutorial(C#)
 

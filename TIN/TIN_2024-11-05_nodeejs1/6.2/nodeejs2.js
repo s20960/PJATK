@@ -1,0 +1,44 @@
+var http = require('http');
+var url = require('url');
+var fs = require('fs')
+
+http.createServer(function (req, res){
+	
+	var q = url.parse(req.url, true);
+	var pathname = q.pathname;
+	
+	if(pathname === '/'){
+		fs.readFile('index.html', function(err, data){
+			if (err) {
+				res.writeHead(500, { 'Content-Type': 'text/plain; charset=utf-8' });
+				return res.end('B³¹d wewnêtrzny serwera');
+			}
+			res.writeHead(200,{'Content-Type': 'text/html'});
+			res.end(data);
+		});
+	}else if(pathname === '/action'){
+		
+		var zmienna_url = q.query.zmienna_html;
+		
+		fs.appendFile('myfile1.txt',zmienna_url + '\n', function(err){
+			if(err){
+				res.writeHead(500, { 'Content-Type': 'text/plain; charset=utf-8' });
+				return res.end('Cos poszlo nie tak');
+			}
+		})
+		fs.readFile('index.html', function(err, data){
+			if (err) {
+				res.writeHead(500, { 'Content-Type': 'text/plain; charset=utf-8' });
+				return res.end('B³¹d wewnêtrzny serwera');
+			}
+			res.writeHead(200,{'Content-Type': 'text/html'});
+			res.end(data);
+		});
+	}else{
+		res.writeHead(404,{'Content-Type': 'text/html'});
+		res.end('page not found')
+	}
+	
+	
+	
+}).listen(8080);

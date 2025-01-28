@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TIN</title>
+</head>
+<body>
+
+<header>
+    <h1>Propozycja projektu zaliczeniowego: "Twój osiedlowy diler"</h1>
+    <h2>Opis projektu</h2>
+</header>
+
+<section>
+    <h3>Cel projektu</h3>
+    <p>Tematem projektu zaliczeniowego jest stworzenie prostej aplikacji internetowej, która umożliwia zarządzanie siecią handlu narkotykami.
+        Aplikacja będzie posiadała różne podstrony, takie jak:</p>
+</section>
+
+<section>
+    <h3>Podstrony aplikacji:</h3>
+    <ul>
+        <li><a href="Klient.html">Strona dla klientów</a> - profil klienta</li>
+        <li><a href="dilerzy.html">Strona dla dilerów</a> - profil dilera</li>
+        <li><a href="zamówienia.html">Strona na składanie zamówień</a> - przygotowanie zamówień</li>
+        <li><a href="hurtownik.html">Strona hurtownika</a> - profil hurtownika</li>
+        <li><a href="zamówienia.html">Strona administracyjna</a> - panel moderatora</li>
+    </ul>
+</section>
+
+<section>
+    <h3>Lista numerowana:</h3>
+    <ol>
+        <li>Numer 1</li>
+        <li>Numer 2</li>
+        <li>Numer 3</li>
+        <li>Numer 4</li>
+    </ol>
+</section>
+
+<section>
+    <h3>Logo sieci narkotykowej:</h3>
+    <img src="https://www.historiaposzukaj.pl/assets/media/Wiedza/Obrazy/MK_03295z_002.jpg" alt="Biała Dama" width="300">
+</section>
+    <table border="5" cellpadding="10">
+<section>
+    <h3>Planowane funkcjonalności:</h3>
+    <table style="border: 3px solid black; border-collapse: collapse;">
+        <tr>
+            <th style="border: 1px solid black;">Podstrona</th>
+            <th style="border: 1px solid black;">Funkcjonalności</th>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;">Strona klientów</td>
+            <td>Profil klienta</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;">Strona dilera</td>
+            <td>Profil klienta</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;">Strona zamówień</td>
+            <td>Otrzymywanie zamówień do przygotowania, oznaczanie zamówień jako gotowe</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;">Strona hurtownika</td>
+            <td>Profil hurtownika</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;">Strona administracyjna</td>
+            <td>Panel Moderatora</td>
+        </tr>
+    </table>
+</section>
+
+
+<div style="border: 5px solid black; padding 10px; margin 10px;"> 
+	<h2 style="padding: 10px;">Złóż zamówienie</h2>
+
+	<form style="padding: 10px;">
+		<label for="name">Imię:</label><br>
+		<input type="text" id="name" name="name" required><br><br>
+
+		<label for="adress">Adres:</label><br>
+		<input type="text" id="adress" name="adress" required><br><br>
+
+		<label for="phone">Numer telefonu:</label><br>
+		<input type="tel" id="phone" name="phone"><br><br>
+
+		<label for="message">Wiadomość:</label><br>
+		<textarea id="message" name="message" rows="4" cols="50"></textarea><br><br>
+
+		<input type="radio" id="adress-contact" name="contact-method" value="email">
+		<label for="adress-contact">Zamówienie bezpośrednie</label><br>
+		<input type="radio" id="phone-contact" name="contact-method" value="phone">
+		<label for="phone-contact">Telefon</label><br><br>
+
+		<label for="newsletter">Zapisz się do newslettera:</label>
+		<input type="checkbox" id="newsletter" name="newsletter" value="yes"><br><br>
+
+		<label for="reason">Powód kontaktu:</label><br>
+		<select id="reason" name="reason">
+			<option value="order">Zamówienie</option>
+			<option value="support">Wsparcie techniczne</option>
+			<option value="feedback">Opinia</option>
+		</select><br><br>
+
+		<input type="submit" value="Wyślij">
+		<input type="reset" value="Wyczyść">
+	</form>
+</div>
+	
+	
+</body>
+</html>
